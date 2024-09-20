@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "892068822169",
+    "project_id": "flutter-flow-admin-j83b96",
+    "storage_bucket": "flutter-flow-admin-j83b96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892068822169:android:37fbbbff7fbd9ee46ccc08",
+        "android_client_info": {
+          "package_name": "com.mycompany.flutterflowadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA0DKhSeHBkKKkp-sr-E7q7DOnBBvAftA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892068822169:android:e52486409185df8d6ccc08",
+        "android_client_info": {
+          "package_name": "com.mycompany.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA0DKhSeHBkKKkp-sr-E7q7DOnBBvAftA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
